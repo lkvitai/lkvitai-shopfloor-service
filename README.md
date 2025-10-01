@@ -1,7 +1,7 @@
 # LKvitai.MES — ShopfloorPilot (Production Tasks & Flow Engine)
 **Technical Specification (Draft v0.1)**  
 **Project:** LKvitai.MES — ShopfloorPilot  
-**Author:** Denis / ChatGPT (for LKvitai.MES)  
+**Author:** Denis  
 **Date:** 2025‑09‑28  
 **Status:** Draft (v0.1) — ready for internal review  
 
